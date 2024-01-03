@@ -1,5 +1,5 @@
 # Text-Generation-with-Decoder-Architecture
-Code to implemnent a decoder only transformer model that predicts the next sentence from a given input sentence
+Code to implemnent a decoder only transformer model that predicts the next sentence from a given input phrase
 
 ## Overview
 
